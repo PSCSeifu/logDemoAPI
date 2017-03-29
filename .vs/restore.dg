@@ -1,0 +1,13 @@
+#:C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Types\ms.logDemo.Types.xproj
+#:C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Data\ms.logDemo.Data.xproj
+C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Data\ms.logDemo.Data.xproj|C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Types\ms.logDemo.Types.xproj
+#:C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Service\ms.logDemo.Service.xproj
+C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Service\ms.logDemo.Service.xproj|C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Data\ms.logDemo.Data.xproj
+C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Service\ms.logDemo.Service.xproj|C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Types\ms.logDemo.Types.xproj
+C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Data\ms.logDemo.Data.xproj|C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Types\ms.logDemo.Types.xproj
+#:C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemoAPI\ms.logDemoAPI.xproj
+C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemoAPI\ms.logDemoAPI.xproj|C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Service\ms.logDemo.Service.xproj
+C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemoAPI\ms.logDemoAPI.xproj|C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Types\ms.logDemo.Types.xproj
+C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Service\ms.logDemo.Service.xproj|C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Data\ms.logDemo.Data.xproj
+C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Service\ms.logDemo.Service.xproj|C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Types\ms.logDemo.Types.xproj
+C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Data\ms.logDemo.Data.xproj|C:\practice\logDemo\ms.logDemoAPI\ms.logDemoAPI\src\ms.logDemo.Types\ms.logDemo.Types.xproj

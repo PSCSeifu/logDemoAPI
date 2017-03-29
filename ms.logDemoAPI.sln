@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{322029A5-F4DF-435A-AC56-6853DC0901E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{01B6C285-BF2D-483D-9992-8BBBABDC9355}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ms.logDemoAPI", "src\ms.logDemoAPI\ms.logDemoAPI.xproj", "{AD555206-2668-4DA0-87FB-0E95405808D9}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ms.logDemo.Service", "src\ms.logDemo.Service\ms.logDemo.Service.xproj", "{87ECFF99-D5C7-4ACF-9F65-33E4DF44E39B}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ms.logDemo.Data", "src\ms.logDemo.Data\ms.logDemo.Data.xproj", "{AA4941DA-F48F-4469-A385-6B002E1EEF17}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ms.logDemo.Types", "src\ms.logDemo.Types\ms.logDemo.Types.xproj", "{1B9C40CB-DA57-448D-BF3A-FFEC1A1FD17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms.logDemo.Logging", "ms.logDemo.Logging\ms.logDemo.Logging.csproj", "{C453D33F-AE35-4407-86B9-9BA08D6652DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD555206-2668-4DA0-87FB-0E95405808D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD555206-2668-4DA0-87FB-0E95405808D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD555206-2668-4DA0-87FB-0E95405808D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD555206-2668-4DA0-87FB-0E95405808D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87ECFF99-D5C7-4ACF-9F65-33E4DF44E39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ECFF99-D5C7-4ACF-9F65-33E4DF44E39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87ECFF99-D5C7-4ACF-9F65-33E4DF44E39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87ECFF99-D5C7-4ACF-9F65-33E4DF44E39B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA4941DA-F48F-4469-A385-6B002E1EEF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4941DA-F48F-4469-A385-6B002E1EEF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4941DA-F48F-4469-A385-6B002E1EEF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4941DA-F48F-4469-A385-6B002E1EEF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9C40CB-DA57-448D-BF3A-FFEC1A1FD17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9C40CB-DA57-448D-BF3A-FFEC1A1FD17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9C40CB-DA57-448D-BF3A-FFEC1A1FD17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9C40CB-DA57-448D-BF3A-FFEC1A1FD17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C453D33F-AE35-4407-86B9-9BA08D6652DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C453D33F-AE35-4407-86B9-9BA08D6652DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C453D33F-AE35-4407-86B9-9BA08D6652DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C453D33F-AE35-4407-86B9-9BA08D6652DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AD555206-2668-4DA0-87FB-0E95405808D9} = {322029A5-F4DF-435A-AC56-6853DC0901E4}
+		{87ECFF99-D5C7-4ACF-9F65-33E4DF44E39B} = {322029A5-F4DF-435A-AC56-6853DC0901E4}
+		{AA4941DA-F48F-4469-A385-6B002E1EEF17} = {322029A5-F4DF-435A-AC56-6853DC0901E4}
+		{1B9C40CB-DA57-448D-BF3A-FFEC1A1FD17D} = {322029A5-F4DF-435A-AC56-6853DC0901E4}
+		{C453D33F-AE35-4407-86B9-9BA08D6652DC} = {322029A5-F4DF-435A-AC56-6853DC0901E4}
+	EndGlobalSection
+EndGlobal
